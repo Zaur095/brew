@@ -1,3 +1,5 @@
+![Uploading IMG_20231216_010313.jpg…]()
+![VWm5kfRwZP0](https://github.com/Homebrew/brew/assets/120563308/77f673ec-ac90-4685-b827-d6d668b23db2)
 # `brew` Shell Completion
 
 Homebrew comes with completion definitions for the `brew` command. Some packages also provide completion definitions for their own programs.
